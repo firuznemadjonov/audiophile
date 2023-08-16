@@ -1018,6 +1018,12 @@ main {
   color: #000000;
 }
 
+.hero__speakers__title {
+  margin-top: 9.8rem;
+  padding-bottom: 9.7rem;
+  color: #FFFFFF;
+}
+
 .header__title {
   margin-top: 9.8rem;
   padding-bottom: 9.7rem;
